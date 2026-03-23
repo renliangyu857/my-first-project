@@ -26,7 +26,7 @@ if "agent_executor" not in st.session_state:
 
 config = {"configurable": {"thread_id": st.session_state.thread_id}}
 
-st.title("🏗️ 工业级科研管线")
+st.title("🏗️ 工业级科研助手")
 
 # 1. 先渲染历史记录
 try:
