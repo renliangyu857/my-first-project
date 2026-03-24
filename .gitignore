@@ -3,3 +3,4 @@ __pycache__/
 vector_db_storage/
 agent_memory.db
 .ipynb_checkpoints/.envrc
+.venv/
